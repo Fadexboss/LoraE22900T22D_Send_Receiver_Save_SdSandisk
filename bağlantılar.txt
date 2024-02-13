@@ -1,0 +1,8 @@
+Burada, bir SD kartı bağlamak için gereken kabloları ayrıntılı olarak belirtilmiştir:
+
+SD kartın SCK pimi -> Arduino'nun 13. pimi
+SD kartın MISO pimi -> Arduino'nun 12. pimi
+SD kartın MOSI pimi -> Arduino'nun 11. pimi
+SD kartın CS pimi -> Arduino'nun 4. pimi
+SD kartın VCC pimi -> Arduino Uno'nun 3.3V pinlerinden birine bağlanabilir
+SD kartın GND pimi -> Arduino Uno'nun GND pinine bağlanır.
